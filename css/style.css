@@ -86,7 +86,7 @@ main {
 }
 
 main aside {
-  height: 80vh;
+  height: 650px;
 }
 
 main aside:nth-child(1) {
