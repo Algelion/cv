@@ -176,9 +176,6 @@ main aside:nth-child(2) {
   header, main {
     width: 80%;
   }
-  header aside, main aside {
-    height: 110vh;
-  }
 }
 
 @media (max-width: 830px) {
